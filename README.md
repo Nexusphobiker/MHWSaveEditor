@@ -9,3 +9,5 @@ Features:
 
 To Do:
 - reverse the file structure and build a full editor
+
+https://guidedhacking.com/threads/monster-hunter-world-save-decrypter-encrypter.11019/?view=date#post-61916
